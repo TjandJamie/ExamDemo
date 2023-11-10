@@ -1,0 +1,6 @@
+test_login:
+  url: "https://www.feishu.cn/"
+  tester1_phone: "13691794051"
+  tester1_password: "tj&123456"
+  tester2_phone: "15013697347"
+  tester2_password: "tj&123456"
